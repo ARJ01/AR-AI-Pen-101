@@ -12,6 +12,6 @@ A desktop run ready program with computer vision
 7. finally making it into a Final tool With hand gesture Detection![Model Sample](https://github.com/ARJ01/AR-AI-Pen-101/blob/main/touch%20erase.JPG)
 
 Note : I know you were not able to copy and Run this , 
-        Just try to learn and Have Fun !!! ✒🤖🤖<br\>
+        Just try to learn and Have Fun !!! ✒🤖🤖<br/>
 This is a 2020 Pandemic Project which was succesfull to reach my Git in 2021 
   PS: Dab when you sneeze !
