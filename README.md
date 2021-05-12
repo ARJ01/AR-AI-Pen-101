@@ -13,3 +13,5 @@ A desktop run ready program with computer vision
 
 Note : I know you were not able to copy and Run this , 
         Just try to learn and Have Fun !!! ✒🤖🤖
+This is a 2020 Pandemic Project which was succesfull to reach 2021 on my Git
+PS: Dab when you sneeze !
